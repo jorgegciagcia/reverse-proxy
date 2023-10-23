@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QO4wpSbephvfa0MoLJ+1ljILOkPuSb6n1SRjTSiRy0w=",
+  "Source": "secure-reverse-proxy",
+  "BasePath": "_content/secure-reverse-proxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

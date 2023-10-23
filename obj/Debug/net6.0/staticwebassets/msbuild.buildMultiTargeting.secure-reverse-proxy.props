@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\secure-reverse-proxy.props" />
+</Project>

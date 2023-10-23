@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\secure-reverse-proxy.props" />
+</Project>
